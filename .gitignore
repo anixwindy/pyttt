@@ -1,0 +1,21 @@
+# 本機設定(跟 D:\2D_RIEE 相同慣例:不上傳)
+CLAUDE.md
+AC_*.md
+start_claudee.ps1
+.claude/
+
+# 編輯器
+.vscode/
+.idea/
+
+# Python 執行時產生
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# 輸出檔
+*.csv
+*.xlsx
+*.png
