@@ -1,6 +1,6 @@
 # codebook 條目格式 —— 複製這個當範本
 
-> 跟 `D:\2D_RIEE\codebook\_FORMAT.md` 同一套,只是換成 Python 註解。
+> 跟 `D:\cpttt\codebook\_FORMAT.md` 同一套,只是換成 Python 註解。
 > **標頭是給三個月後的你看的,不是給現在的你看的。**
 
 ```python

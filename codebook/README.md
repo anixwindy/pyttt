@@ -1,6 +1,6 @@
 # codebook —— Python 模板庫
 
-> **這裡刻意從空的開始。** C++ 那邊有 23 支(`D:\2D_RIEE\codebook\`),Python 不照搬。
+> **這裡刻意從空的開始。** C++ 那邊有 23 支(`D:\cpttt\codebook\`),Python 不照搬。
 > **規則:某一題真的需要、而且 AC 了,才把那段抽出來放進來。**
 > 理由:「擴充 codebook 但沒在解題」= 頭號死因(見 `CLAUDE.md` 紅色警報)。
 
